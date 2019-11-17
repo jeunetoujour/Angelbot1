@@ -1,0 +1,11 @@
+E:\AngelSuite\AionSource\Angelbot\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\AngelSuite\AionSource\Angelbot\obj\x86\Debug\AngelBot.AboutBox1.resources
+E:\AngelSuite\AionSource\Angelbot\obj\x86\Debug\AngelBot.ProjectPhale.resources
+E:\AngelSuite\AionSource\Angelbot\obj\x86\Debug\ProjectPhale.Properties.Resources.resources
+E:\AngelSuite\AionSource\Angelbot\obj\x86\Debug\AngelBot.settings.resources
+E:\AngelSuite\AionSource\Angelbot\obj\x86\Debug\ResGen.read.1.tlog
+E:\AngelSuite\AionSource\Angelbot\obj\x86\Debug\ResGen.write.1.tlog
+E:\AngelSuite\AionSource\Angelbot\obj\x86\Debug\ProjectPhale.ProjectPhale.resources
+E:\AngelSuite\AionSource\Angelbot\obj\x86\Debug\ProjectPhale.AboutBox1.resources
+E:\AngelSuite\AionSource\Angelbot\obj\x86\Debug\ProjectPhale.ProjectPhaleBot.resources
+E:\AngelSuite\AionSource\Angelbot\obj\x86\Debug\ProjectPhale.settings.resources

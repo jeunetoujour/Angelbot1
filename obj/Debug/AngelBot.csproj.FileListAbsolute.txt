@@ -1,0 +1,5 @@
+C:\AionSource\Angelbot\obj\Debug\ResolveAssemblyReference.cache
+C:\AionSource\Angelbot\obj\Debug\AngelBot.AboutBox1.resources
+C:\AionSource\Angelbot\obj\Debug\AngelBot.Form1.resources
+C:\AionSource\Angelbot\obj\Debug\AngelBot.settings.resources
+C:\AionSource\Angelbot\obj\Debug\AngelBot.csproj.GenerateResource.Cache

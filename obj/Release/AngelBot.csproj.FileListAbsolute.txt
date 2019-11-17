@@ -1,0 +1,17 @@
+C:\AionSource\Angelbot\bin\Release\COPYING
+C:\AionSource\Angelbot\bin\Release\AngelBot.exe.manifest
+C:\AionSource\Angelbot\bin\Release\AngelBot.application
+C:\AionSource\Angelbot\bin\Release\AngelBot.exe
+C:\AionSource\Angelbot\bin\Release\AngelBot.pdb
+C:\AionSource\Angelbot\bin\Release\AionMemory.dll
+C:\AionSource\Angelbot\bin\Release\AionMemory.pdb
+C:\AionSource\Angelbot\obj\Release\ResolveAssemblyReference.cache
+C:\AionSource\Angelbot\obj\Release\AngelBot.AboutBox1.resources
+C:\AionSource\Angelbot\obj\Release\AngelBot.Form1.resources
+C:\AionSource\Angelbot\obj\Release\AngelBot.Properties.Resources.resources
+C:\AionSource\Angelbot\obj\Release\AngelBot.settings.resources
+C:\AionSource\Angelbot\obj\Release\AngelBot.csproj.GenerateResource.Cache
+C:\AionSource\Angelbot\obj\Release\AngelBot.exe.manifest
+C:\AionSource\Angelbot\obj\Release\AngelBot.application
+C:\AionSource\Angelbot\obj\Release\AngelBot.exe
+C:\AionSource\Angelbot\obj\Release\AngelBot.pdb
